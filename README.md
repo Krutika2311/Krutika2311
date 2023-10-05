@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web applications and VOIP products<br>👯 I’m looking to collaborate on website development and applications<br>🌱 I’m currently learning MERN stack and machine learning <br>💬 Ask me about sracasm , development and more sarcasm<br>⚡ Fun fact i am a very simple girl
+🔭💬 Ask me about sracasm , development and more sarcasm<br>⚡ Fun fact i am a very simple girl
 
 
 # 💻 Tech Stack:
