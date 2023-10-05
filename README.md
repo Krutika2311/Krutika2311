@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭💬 Ask me about sracasm , development and more sarcasm<br>⚡ Fun fact i am a very simple girl
+💬 Ask me about sracasm , development and more sarcasm<br>⚡ Fun fact i am a very simple girl
 
 
 # 💻 Tech Stack:
